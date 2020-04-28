@@ -1,3 +1,3 @@
-# A01633182-SO
+  # A01630891-SO
 Repositorio de Sistemas Operativos
-gg
+Alberto Rodriguez
